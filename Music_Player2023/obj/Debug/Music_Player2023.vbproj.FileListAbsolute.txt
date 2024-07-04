@@ -1,0 +1,17 @@
+D:\Projects\VB\Music_Player 2023\Music_Player2023\Music_Player2023\bin\Debug\Music_Player2023.exe.config
+D:\Projects\VB\Music_Player 2023\Music_Player2023\Music_Player2023\bin\Debug\Music_Player2023.exe
+D:\Projects\VB\Music_Player 2023\Music_Player2023\Music_Player2023\bin\Debug\Music_Player2023.pdb
+D:\Projects\VB\Music_Player 2023\Music_Player2023\Music_Player2023\bin\Debug\Music_Player2023.xml
+D:\Projects\VB\Music_Player 2023\Music_Player2023\Music_Player2023\bin\Debug\Interop.WMPLib.dll
+D:\Projects\VB\Music_Player 2023\Music_Player2023\Music_Player2023\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects\VB\Music_Player 2023\Music_Player2023\Music_Player2023\obj\Debug\Music_Player2023.vbprojAssemblyReference.cache
+D:\Projects\VB\Music_Player 2023\Music_Player2023\Music_Player2023\obj\Debug\Interop.WMPLib.dll
+D:\Projects\VB\Music_Player 2023\Music_Player2023\Music_Player2023\obj\Debug\AxInterop.WMPLib.dll
+D:\Projects\VB\Music_Player 2023\Music_Player2023\Music_Player2023\obj\Debug\Music_Player2023.vbproj.ResolveComReference.cache
+D:\Projects\VB\Music_Player 2023\Music_Player2023\Music_Player2023\obj\Debug\Music_Player2023.Form1.resources
+D:\Projects\VB\Music_Player 2023\Music_Player2023\Music_Player2023\obj\Debug\Music_Player2023.Resources.resources
+D:\Projects\VB\Music_Player 2023\Music_Player2023\Music_Player2023\obj\Debug\Music_Player2023.vbproj.GenerateResource.cache
+D:\Projects\VB\Music_Player 2023\Music_Player2023\Music_Player2023\obj\Debug\Music_Player2023.vbproj.CoreCompileInputs.cache
+D:\Projects\VB\Music_Player 2023\Music_Player2023\Music_Player2023\obj\Debug\Music_Player2023.exe
+D:\Projects\VB\Music_Player 2023\Music_Player2023\Music_Player2023\obj\Debug\Music_Player2023.xml
+D:\Projects\VB\Music_Player 2023\Music_Player2023\Music_Player2023\obj\Debug\Music_Player2023.pdb
